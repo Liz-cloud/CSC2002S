@@ -1,0 +1,27 @@
+time elapsed for the 25 find operations :
+0.002
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.004
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Average time elapsed for find  operation :2.4000001E-4

@@ -1,0 +1,28 @@
+number of basins found:6561
+time elapsed for the 25 find operations :
+0.011
+0.0
+0.0
+0.0
+0.0
+0.0
+0.004
+0.0
+0.0
+0.0
+0.004
+0.0
+0.0
+0.0
+0.004
+0.0
+0.0
+0.004
+0.004
+0.0
+0.0
+0.004
+0.0
+0.0
+0.004
+average time elapsed for the data set:0.0015600002
